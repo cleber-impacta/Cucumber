@@ -9,6 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 		features = "src/test/resources/features",
 		glue = "br.com.cucumber.steps",
+		tags = "~@ignore",
 		plugin = "pretty", 
 		monochrome = true,
 		snippets = SnippetType.CAMELCASE,

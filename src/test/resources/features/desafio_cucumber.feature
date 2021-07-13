@@ -19,6 +19,7 @@ Funcionalidade: Desafio
     E que o nome do passageiro é "Cicrano de Oliveira"
     E que o telefone do passageiro é 9888-8888
 
+	@ignore
   Cenário: Deve negar todos os steps "Dado" dos cenários anteriores
     Dado que o ticket é CD123
     E que o ticket é AG1234
