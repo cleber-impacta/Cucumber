@@ -1,4 +1,4 @@
-package br.com.cucumber;
+package br.com.cucumber.steps;
 import static org.junit.Assert.assertEquals;
 
 import java.text.DateFormat;
@@ -6,6 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+import br.com.cucumber.utils.DateConverter;
 import cucumber.api.Transform;
 import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Então;

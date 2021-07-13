@@ -1,4 +1,4 @@
-package br.com.cucumber;
+package br.com.cucumber.utils;
 
 import java.text.DateFormat;
 import java.text.ParseException;

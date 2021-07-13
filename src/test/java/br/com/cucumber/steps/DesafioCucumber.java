@@ -1,4 +1,4 @@
-package br.com.cucumber;
+package br.com.cucumber.steps;
 import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Então;
 import cucumber.api.java.pt.Quando;
